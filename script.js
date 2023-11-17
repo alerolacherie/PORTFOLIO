@@ -68,7 +68,6 @@ function onNavItemClick(id, Nigeria) {
     curSelectedNav.classList.add("active");
 }
 
-
 const searchButton = document.getElementById("search-button");
 const searchText = document.getElementById("search-text");
 
